@@ -12,7 +12,6 @@ The serializer convert Django model instances into Python data types that can be
 In the view.py there are structure that takes a web request and returns a responses.
 
 ---
-### Getting Started
 ### Available Scripts
 
 In the project directory, 
