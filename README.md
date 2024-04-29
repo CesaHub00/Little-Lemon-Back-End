@@ -14,7 +14,7 @@ In the view.py there are structure that takes a web request and returns a respon
 ---
 ### Available Scripts
 
-In the project directory, 
+In the project directory,
 
 `$ cd Little-Lemon-Back-End/littlelemon`
 
