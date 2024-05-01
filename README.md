@@ -32,4 +32,4 @@ You can change the url to see the admin panel *(admin/)* or the menu *(restauran
 
 #### `python manage.py test`
 
-To test models, serializers and views in the test.py file.
+To test models created in the test.py file.
